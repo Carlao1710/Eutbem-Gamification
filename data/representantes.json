@@ -1,0 +1,95 @@
+{
+  "Representantes": [
+    {
+      "Nome": "Carolina Moura",
+      "Cotas": {
+        "Ativa": 7,
+        "Cancelada": 2,
+        "Pago": 6,
+        "Atrasado": 1
+      },
+      "Contratos": {
+        "Total Ativos": "R$ 719.596,50",
+        "Total Cancelados": "R$ 553.230,00"
+      }
+    },
+    {
+      "Nome": "Daniel Martins",
+      "Cotas": {
+        "Ativa": 3,
+        "Cancelada": 1,
+        "Pago": 3,
+        "Atrasado": 0
+      },
+      "Contratos": {
+        "Total Ativos": "R$ 75.907,50",
+        "Total Cancelados": "R$ 17.409,00"
+      }
+    },
+    {
+      "Nome": "Emanuelly Pinto",
+      "Cotas": {
+        "Ativa": 0,
+        "Cancelada": 1,
+        "Pago": 0,
+        "Atrasado": 0
+      },
+      "Contratos": {
+        "Total Ativos": "R$ 0,00",
+        "Total Cancelados": "R$ 19.212,00"
+      }
+    },
+    {
+      "Nome": "Fernando Oliveira",
+      "Cotas": {
+        "Ativa": 4,
+        "Cancelada": 1,
+        "Pago": 4,
+        "Atrasado": 0
+      },
+      "Contratos": {
+        "Total Ativos": "R$ 315.934,00",
+        "Total Cancelados": "R$ 344.340,00"
+      }
+    },
+    {
+      "Nome": "Gabriela Mendes",
+      "Cotas": {
+        "Ativa": 2,
+        "Cancelada": 2,
+        "Pago": 1,
+        "Atrasado": 1
+      },
+      "Contratos": {
+        "Total Ativos": "R$ 60.768,00",
+        "Total Cancelados": "R$ 170.172,00"
+      }
+    },
+    {
+      "Nome": "Luiz Miguel Moreira",
+      "Cotas": {
+        "Ativa": 9,
+        "Cancelada": 2,
+        "Pago": 6,
+        "Atrasado": 3
+      },
+      "Contratos": {
+        "Total Ativos": "R$ 688.619,00",
+        "Total Cancelados": "R$ 398.685,00"
+      }
+    },
+    {
+      "Nome": "Luiz Otávio Nogueira",
+      "Cotas": {
+        "Ativa": 0,
+        "Cancelada": 1,
+        "Pago": 0,
+        "Atrasado": 0
+      },
+      "Contratos": {
+        "Total Ativos": "R$ 0,00",
+        "Total Cancelados": "R$ 167.790,00"
+      }
+    }
+  ]
+}

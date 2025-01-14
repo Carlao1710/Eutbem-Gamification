@@ -1,0 +1,121 @@
+{
+  "Semanas": [
+    {
+      "Semana": "Semana 1",
+      "Inicio": "26/12/2024",
+      "Fim": "05/01/2025",
+      "Total de Contratos": "R$ 112.315,00",
+      "Carolina Moura": "R$ 112.315,00",
+      "Daniel Martins": "R$ 0,00",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 0,00",
+      "Gabriela Mendes": "R$ 0,00",
+      "Luiz Miguel Moreira": "R$ 0,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    },
+    {
+      "Semana": "Semana 2",
+      "Inicio": "06/01/2025",
+      "Fim": "12/01/2025",
+      "Total de Contratos": "R$ 565.657,50",
+      "Carolina Moura": "R$ 0,00",
+      "Daniel Martins": "R$ 75.907,50",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 0,00",
+      "Gabriela Mendes": "R$ 0,00",
+      "Luiz Miguel Moreira": "R$ 489.750,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    },
+    {
+      "Semana": "Semana 3",
+      "Inicio": "13/01/2025",
+      "Fim": "19/01/2025",
+      "Total de Contratos": "R$ 45.900,00",
+      "Carolina Moura": "R$ 0,00",
+      "Daniel Martins": "R$ 0,00",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 0,00",
+      "Gabriela Mendes": "R$ 0,00",
+      "Luiz Miguel Moreira": "R$ 45.900,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    },
+    {
+      "Semana": "Semana 4",
+      "Inicio": "20/01/2025",
+      "Fim": "26/01/2025",
+      "Total de Contratos": "R$ 1.070.522,50",
+      "Carolina Moura": "R$ 607.281,50",
+      "Daniel Martins": "R$ 0,00",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 315.934,00",
+      "Gabriela Mendes": "R$ 60.768,00",
+      "Luiz Miguel Moreira": "R$ 86.539,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    },
+    {
+      "Semana": "Semana 5",
+      "Inicio": "27/01/2025",
+      "Fim": "02/02/2025",
+      "Total de Contratos": "R$ 66.430,00",
+      "Carolina Moura": "R$ 0,00",
+      "Daniel Martins": "R$ 0,00",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 0,00",
+      "Gabriela Mendes": "R$ 0,00",
+      "Luiz Miguel Moreira": "R$ 66.430,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    },
+    {
+      "Semana": "Semana 6",
+      "Inicio": "03/02/2025",
+      "Fim": "09/02/2025",
+      "Total de Contratos": "R$ 0,00",
+      "Carolina Moura": "R$ 0,00",
+      "Daniel Martins": "R$ 0,00",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 0,00",
+      "Gabriela Mendes": "R$ 0,00",
+      "Luiz Miguel Moreira": "R$ 0,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    },
+    {
+      "Semana": "Semana 7",
+      "Inicio": "10/02/2025",
+      "Fim": "16/02/2025",
+      "Total de Contratos": "R$ 0,00",
+      "Carolina Moura": "R$ 0,00",
+      "Daniel Martins": "R$ 0,00",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 0,00",
+      "Gabriela Mendes": "R$ 0,00",
+      "Luiz Miguel Moreira": "R$ 0,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    },
+    {
+      "Semana": "Semana 8",
+      "Inicio": "17/02/2025",
+      "Fim": "23/02/2025",
+      "Total de Contratos": "R$ 0,00",
+      "Carolina Moura": "R$ 0,00",
+      "Daniel Martins": "R$ 0,00",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 0,00",
+      "Gabriela Mendes": "R$ 0,00",
+      "Luiz Miguel Moreira": "R$ 0,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    },
+    {
+      "Semana": "Semana 9",
+      "Inicio": "24/02/2025",
+      "Fim": "02/03/2025",
+      "Total de Contratos": "R$ 0,00",
+      "Carolina Moura": "R$ 0,00",
+      "Daniel Martins": "R$ 0,00",
+      "Emanuelly Pinto": "R$ 0,00",
+      "Fernando Oliveira": "R$ 0,00",
+      "Gabriela Mendes": "R$ 0,00",
+      "Luiz Miguel Moreira": "R$ 0,00",
+      "Luiz Otávio Nogueira": "R$ 0,00"
+    }
+  ]
+}
