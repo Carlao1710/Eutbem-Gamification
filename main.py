@@ -1,6 +1,11 @@
 import streamlit as st
+import sys
+import os
 from src.dashboard.admin_dashboard import admin_dashboard
 from src.dashboard.representative_dashboard import representative_dashboard
+
+# Adicionar o diretório 'src' ao caminho de módulos
+sys.path.append(os.path.abspath("src"))
 
 st.set_page_config(
     page_title="Eutbem Gamification Platform",
