@@ -11,6 +11,13 @@
       "Contratos": {
         "Total Ativos": "R$ 719.596,50",
         "Total Cancelados": "R$ 553.230,00"
+      },
+      "Grupos": {
+        "Carro ou Moto": 2,
+        "Imóveis": 2,
+        "Cirurgia Plástica ou Estética": 1,
+        "Reforma": 2,
+        "Viagem": 2
       }
     },
     {
@@ -24,6 +31,13 @@
       "Contratos": {
         "Total Ativos": "R$ 75.907,50",
         "Total Cancelados": "R$ 17.409,00"
+      },
+      "Grupos": {
+        "Carro ou Moto": 0,
+        "Imóveis": 0,
+        "Cirurgia Plástica ou Estética": 1,
+        "Reforma": 2,
+        "Viagem": 1
       }
     },
     {
@@ -37,6 +51,13 @@
       "Contratos": {
         "Total Ativos": "R$ 0,00",
         "Total Cancelados": "R$ 19.212,00"
+      },
+      "Grupos": {
+        "Carro ou Moto": 1,
+        "Imóveis": 0,
+        "Cirurgia Plástica ou Estética": 1,
+        "Reforma": 0,
+        "Viagem": 0
       }
     },
     {
@@ -50,6 +71,13 @@
       "Contratos": {
         "Total Ativos": "R$ 315.934,00",
         "Total Cancelados": "R$ 344.340,00"
+      },
+      "Grupos": {
+        "Carro ou Moto": 0,
+        "Imóveis": 2,
+        "Cirurgia Plástica ou Estética": 1,
+        "Reforma": 1,
+        "Viagem": 1
       }
     },
     {
@@ -63,6 +91,13 @@
       "Contratos": {
         "Total Ativos": "R$ 60.768,00",
         "Total Cancelados": "R$ 170.172,00"
+      },
+      "Grupos": {
+        "Carro ou Moto": 0,
+        "Imóveis": 1,
+        "Cirurgia Plástica ou Estética": 1,
+        "Reforma": 1,
+        "Viagem": 2
       }
     },
     {
@@ -76,6 +111,13 @@
       "Contratos": {
         "Total Ativos": "R$ 688.619,00",
         "Total Cancelados": "R$ 398.685,00"
+      },
+      "Grupos": {
+        "Carro ou Moto": 3,
+        "Imóveis": 3,
+        "Cirurgia Plástica ou Estética": 3,
+        "Reforma": 1,
+        "Viagem": 1
       }
     },
     {
@@ -89,6 +131,13 @@
       "Contratos": {
         "Total Ativos": "R$ 0,00",
         "Total Cancelados": "R$ 167.790,00"
+      },
+      "Grupos": {
+        "Carro ou Moto": 1,
+        "Imóveis": 0,
+        "Cirurgia Plástica ou Estética": 1,
+        "Reforma": 0,
+        "Viagem": 0
       }
     }
   ]
